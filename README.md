@@ -1,2 +1,2 @@
-Config for Sublime Text 3
+Config for Sublime Text 2
 First 
