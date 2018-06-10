@@ -12,9 +12,3 @@ ReactDOM.render( <
 	/ul>,
 	document.getElementById('app')
 )
-
-/*
-
-magnet:?xt=urn:btih:F1C937959C39816C13AC75B8C3E2B20B3E5F142E
-magnet:?xt=urn:btih:4ED1BFA6A9611915C98090CB6F87499C1784FAC5
-*/
